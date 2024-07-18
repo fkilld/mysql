@@ -17,7 +17,7 @@ Examples of atomic values:
 
 Atomic values are crucial in database design, particularly in achieving the First Normal Form (1NF) in relational databases. Using atomic values helps maintain data integrity, simplifies queries, and reduces data redundancy.
 
-Would you like me to explain more about the importance of atomic values in database design or compare them further with non-atomic values?
+
 #
 
 let's talk about normalization in MySQL using simple examples and concepts without diving into technical jargon.
